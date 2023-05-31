@@ -1,5 +1,7 @@
 # Identifying-cell-types-within-a-single-cell-data-biological
-Single cell data biological analysis includes a primary step that is investigating which type each cell belongs to CIPR (Correlation based method) and ScCATCH (Marker gene method) methods were analysed and numerically compared under different situations.
+Single cell data biological analysis includes a primary step that is investigating which type each
+cell belongs to. For that purpose, CIPR (Correlation based method) and ScCATCH (Marker
+gene method) methods were analysed and numerically compared under different situations.
 
 
 ## Introduction
@@ -23,7 +25,12 @@ in order to conclude which method obtained better results, under the following s
 <img width="676" alt="true_data" src="https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/b36818ed-1884-4d65-9287-07fd21659a1b">
 
 
+### Experiment 1 
+<img width="651" alt="exp1" src="https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/01605fa0-c33d-4c5a-930f-46d726a06670">
 
+
+##### Note: 
+Remaining experiments and classification results are shown in detail in the research report.
 
 # References
 [Pasquini] Pasquini, G., Arias, J. E. R., Schäfer, P., & Busskamp, V. (2021). Automated
