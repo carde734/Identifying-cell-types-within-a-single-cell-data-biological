@@ -25,10 +25,10 @@ in order to conclude which method obtained better results, under the following s
 
 ### Experiment 1 
 <img width="651" alt="exp1" src="https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/01605fa0-c33d-4c5a-930f-46d726a06670">
-\
 
 
-Note: Remaining experiments and classification results are shown in detail in the research report.
+##### Note: 
+Remaining experiments and classification results are shown in detail in the research report.
 
 # References
 [Pasquini] Pasquini, G., Arias, J. E. R., Schäfer, P., & Busskamp, V. (2021). Automated
