@@ -11,6 +11,7 @@ categories was chosen for this research. From the category “Marker gene method
 chosen method was ScCATCH and from the category “Correlation based method” the
 chosen method was CIPR. A detailed numerical comparison of these methods was made
 in order to conclude which method obtained better results, under the following situations:\
+\
 • 1: The method contains exactly same cell types as cell types in the single cell data.\
 • 2: The method contains more cell types than in single cell data.\
 • 3: Some cell types that are in single cell data are not present in the method.\
