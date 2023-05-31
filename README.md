@@ -32,6 +32,13 @@ in order to conclude which method obtained better results, under the following s
 ### Experiment 1 
 ![image](https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/e8dc67bb-ba7b-4f2f-bfc9-fb7e4dbb5ef9)
 
+### Conclusion 
+In this research, correlation based method had a better
+performance than marker gene method. The correlation based method (CIPR) did a better
+prediction of the cell label, regardless of the number of clusters used for analysis and that
+the number of clusters used for analysis has a high impact in the performance the marker
+gene method (ScCATCH).
+
 
 ##### Note: 
 Remaining experiments and classification results are shown in detail in the research report.
