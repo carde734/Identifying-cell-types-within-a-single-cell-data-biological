@@ -23,6 +23,11 @@ in order to conclude which method obtained better results, under the following s
 <img width="676" alt="true_data" src="https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/b36818ed-1884-4d65-9287-07fd21659a1b">
 
 
+### Experiment 1 
+<img width="651" alt="exp1" src="https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/01605fa0-c33d-4c5a-930f-46d726a06670">
+
+
+
 
 
 # References
