@@ -20,7 +20,7 @@ in order to conclude which method obtained better results, under the following s
 ## Results 
 
 ### True Data 
-![image](https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/cc2660a8-c895-4edd-b6eb-13c2644e1ed7)
+<img width="676" alt="true_data" src="https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/b36818ed-1884-4d65-9287-07fd21659a1b">
 
 
 
