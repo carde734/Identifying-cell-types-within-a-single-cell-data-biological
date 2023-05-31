@@ -1,0 +1,66 @@
+Instructions for the files: 
+
+research_0_Pre_process_5celltypes_2500each.ipynb:
+      Pre-Processing of data (gene conversion) made in python. Reads the given file "5_cell_types_2500_cells_each.txt" and outputs the file       "python_pre_processed_5celltypes_2500each.txt" 
+
+research_1_proj_LoadData_pythonPP.R:
+      Installs Packages and reads the outputed file "python_pre_processed_5celltypes_2500each" and runs some common steps.
+research_2_proj_CorrelationCIPR_pythonPP.R - Correlation Based
+Runs CIPR analysis. Some pbmc and all markers files are generated in a step by step analysis, these are saved in the file folder in order to facilitate the analysis, but    can also be generated from scratch if needed.  The same results are generated in quick and step by step analysis, quick analysis uses functions and previously generated files that take some time to be generated (pbmc and all_markers files). However, some numerical calculations are only made in quick analysis.
+
+ 
+
+      For quick analysis : 
+
+            Run LOAD LIBRARIES
+
+            Run RUN HERE FOR QUICK ANALYSIS
+
+            Run ANALYSIS RESULTS
+
+            Run CALS OBJECTS (EXAMPLES)
+
+ 
+
+      For step by step analysis:
+
+            Run LOAD LIBRARIES 
+
+            Run  RUN HERE FOR STEP BY STEP ANALYSIS
+
+                  
+
+research_3_proj_MarkerGeneScCATCH_pythonPP.R - Marker Gene:
+          Runs ScCATCH analysis. Uses pbmc and all markers files generated in (research_2_proj_CorrelationCIPR_pythonPP.R). Follows same structure also. 
+
+                For quick analysis : 
+
+                      Run LOAD LIBRARIES
+
+                      Run RUN DEPENDING ON WHICH SUBSET OF DATA
+
+                      Run REFERENCE DATABASES
+
+                      Run RUN HERE FOR QUICK ANALYSIS
+
+                      Run ANALYSIS RESULTS
+
+                      Run  CALS OBJECTS (EXAMPLES)
+
+ 
+
+                
+
+ 
+
+               For step by step analysis:
+
+                      Run LOAD LIBRARIES
+
+                      Run RUN DEPENDING ON WHICH SUBSET OF DATA
+
+                      Run REFERENCE DATABASES
+
+                      Run RUN FOR STEP BY STEP ANALYSIS
+
+           
