@@ -30,8 +30,7 @@ in order to conclude which method obtained better results, under the following s
 
 
 ### Experiment 1 
-![image](https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/45d5a4b9-877e-457a-81fa-9649dcc82f1b)
-
+![image](https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/e8dc67bb-ba7b-4f2f-bfc9-fb7e4dbb5ef9)
 
 
 ##### Note: 
