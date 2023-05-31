@@ -28,7 +28,7 @@ in order to conclude which method obtained better results, under the following s
 
 
 
-
+Remaining experiments and classification results are shown in detail in the research report.
 
 # References
 [Pasquini] Pasquini, G., Arias, J. E. R., Schäfer, P., & Busskamp, V. (2021). Automated
