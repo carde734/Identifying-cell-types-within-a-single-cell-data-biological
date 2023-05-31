@@ -26,11 +26,12 @@ in order to conclude which method obtained better results, under the following s
 ## Results 
 
 ### True Data 
-<img width="676" alt="true_data" src="https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/9e7d8ad6-0629-4a17-bbee-fbd6c10830d1">
+![image](https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/bc367a95-4fa7-4d2c-8cd2-e4a830f7475c)
 
 
 ### Experiment 1 
-<img width="651" alt="exp1" src="https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/a6eb99ed-2d28-4ed0-b73d-4a800c2b2d95">
+![image](https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/45d5a4b9-877e-457a-81fa-9649dcc82f1b)
+
 
 
 ##### Note: 
