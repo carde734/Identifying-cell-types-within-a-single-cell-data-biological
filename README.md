@@ -17,6 +17,12 @@ in order to conclude which method obtained better results, under the following s
 • 3: Some cell types that are in single cell data are not present in the method.\
 • 4: There are various proportions of cell types in single cell data.
 
+## Results 
+
+### True Data 
+![image](https://github.com/carde734/Identifying-cell-types-within-a-single-cell-data-biological/assets/90332007/cc2660a8-c895-4edd-b6eb-13c2644e1ed7)
+
+
 
 
 # References
